@@ -54,7 +54,7 @@ h1 {
     cursor: pointer;
 }
 
-.btn:hover {
+.btn:active {
     transform: scale(0.95);
 }
 
